@@ -1,3 +1,7 @@
 ssssss
+<<<<<<< HEAD
 4566789
 66666666666 master modify
+=======
+7777777 hot-fix modify
+>>>>>>> cce51dd (hot-fix commit)
