@@ -1,3 +1,7 @@
 wo shi java1
 wo shi java2
+<<<<<<< HEAD
 wo xiu le master
+=======
+wo xiu gaile java2
+>>>>>>> a7cf40b (java2 commit java)
