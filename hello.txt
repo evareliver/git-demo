@@ -1,7 +1,6 @@
 ssssss
-<<<<<<< HEAD
-4566789
+466789
 66666666666 master modify
-=======
 7777777 hot-fix modify
 99999999
+101010101010 jmz modify
